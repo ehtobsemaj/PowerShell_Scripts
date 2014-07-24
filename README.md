@@ -1,8 +1,6 @@
-PowerCLI Scripts
+PowerShell Scripts
 ================
-Various PowerCLI Scripts for vSphere
 
-####Requirements
+A number of scripts used to make day-to-day life easier for administrators and engineers.
 
-It's assumed that you're running the latest version of PowerCLI and at least PowerShell version 2 or better.
-
+Many of them are focused on vSphere environments and require PowerCLI to be installed.
